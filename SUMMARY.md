@@ -36,7 +36,7 @@ Kotlin简体中文文档的概要
     * [5.3-内联函数](5-FunctionsAndLambdas/5.3-Inline_Functions.md)
     * [5.4-协程](5-FunctionsAndLambdas/5.4-Coroutines.md)
  * 6-其他
-    * [6.1-解耦声明](6-Others/6.1-Destructuring_Declarations.md)
+    * [6.1-重构声明](6-Others/6.1-Destructuring_Declarations.md)
     * [6.2-集合](6-Others/6.2-Collections.md)
     * [6.3-区间](6-Others/6.3-Ranges.md)
     * [6.4-类型检查和转换](6-Others/6.4-Type_Checks_and_Casts.md)
