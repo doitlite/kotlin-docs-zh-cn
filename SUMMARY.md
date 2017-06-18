@@ -9,7 +9,7 @@ Kotlin简体中文文档的概要
     * [1.4-Kotlin 1.1的新特性](1-Overview/1.4-Whats_New_in_Kotlin_1.1.md)
  * 2-入门
     * [2.1-基础语法](2-GettingStarted/2.1-Basic_Syntax.md)
-    * [2.2-编码风格](2-GettingStarted/2.2-Idioms.md)
+    * [2.2-编码惯用语](2-GettingStarted/2.2-Idioms.md)
     * [2.3-编码规范](2-GettingStarted/2.3-Coding_Conventions.md)
  * 3-基础
     * [3.1-基本类型](3-Basics/3.1-Basic_Types.md)
